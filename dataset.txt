@@ -1,0 +1,561 @@
+(NH4)2CO3 + Ca(NO3)2 = NH4NO3 + CaCO3
+Ca(NO3)2 + (NH4)2CO3 = NH4NO3 + CaCO3
+
+(NH4)2Cr2O7 = Cr2O3 + H2O + N2
+
+(NH4)2S + FeCl3 = Fe2S3 + NH4Cl
+FeCl3 + (NH4)2S = Fe2S3 + NH4Cl
+
+(NH4)2S + ZnCl2 = NH4Cl + ZnS
+ZnCl2 + (NH4)2S = NH4Cl + ZnS
+
+Ag + HNO3 = AgNO3 + H2O + NO2
+HNO3 + Ag = AgNO3 + H2O + NO2
+
+AgNO3 + Cu = Cu(NO3)2 + Ag
+Cu + AgNO3 = Cu(NO3)2 + Ag
+
+AgNO3 + HCl = AgCl + HNO3
+HCl + AgNO3 = AgCl + HNO3
+
+AgNO3 + NaCl = NaNO3 + AgCl
+NaCl + AgNO3 = NaNO3 + AgCl
+
+AgNO3 = NO2 + Ag + O2
+
+Al + Cl2 = AlCl3
+Cl2 + Al = AlCl3
+
+Al + Cr2O3 = Al2O3 + Cr
+Cr2O3 + Al = Al2O3 + Cr
+
+Al + CuO = Al2O3 + Cu
+CuO + Al = Al2O3 + Cu
+
+Al + CuSO4 = Al2(SO4)3 + Cu
+CuSO4 + Al = Al2(SO4)3 + Cu
+
+Al + Fe2O3 = Al2O3 + Fe
+Fe2O3 + Al = Al2O3 + Fe
+
+Al + H2SO4 = Al2(SO4)3 + H2
+H2SO4 + Al = Al2(SO4)3 + H2
+
+Al + HCl = AlCl3 + H2
+HCl + Al = AlCl3 + H2
+
+Al + HgCl2 = AlCl3 + Hg
+HgCl2 + Al = AlCl3 + Hg
+
+Al + O2 = Al2O3
+O2 + Al = Al2O3
+
+Al + S = Al2S3
+S + Al = Al2S3
+
+Al(OH)3 + HNO3 = Al(NO3)3 + H2O
+HNO3 + Al(OH)3 = Al(NO3)3 + H2O
+
+Al(OH)3 + NaOH = Na3(Al(OH)6)
+NaOH + Al(OH)3 = Na3(Al(OH)6)
+
+AlCl3 + NaOH = Al(OH)3 + NaCl
+NaOH + AlCl3 = Al(OH)3 + NaCl
+
+AuCl3 + Cu = CuCl2 + Au
+Cu + AuCl3 = CuCl2 + Au
+
+AuCl3 = Cl2 + Au
+
+Ba(OH)2 + CO2 = BaCO3 + H2O
+CO2 + Ba(OH)2 = BaCO3 + H2O
+
+Ba(OH)2 + H2SO4 = BaSO4 + H2O
+H2SO4 + Ba(OH)2 = BaSO4 + H2O
+
+Ba(OH)2 + HCl = BaCl2 + H2O
+HCl + Ba(OH)2 = BaCl2 + H2O
+
+Ba(OH)2 + NH4Cl = BaCl2 + H2O + NH3
+NH4Cl + Ba(OH)2 = BaCl2 + H2O + NH3
+
+Ba(OH)2 + SO3 = BaSO4 + H2O
+SO3 + Ba(OH)2 = BaSO4 + H2O
+
+BaCO3 = BaO + CO2
+
+BaCl2 + H2SO4 = BaSO4 + HCl
+H2SO4 + BaCl2 = BaSO4 + HCl
+
+BaO + H2O = Ba(OH)2
+H2O + BaO = Ba(OH)2
+
+C + CO2 = CO
+CO2 + C = CO
+
+C + CuO = CO + Cu
+CuO + C = CO + Cu
+
+C + Fe2O3 = CO + Fe
+Fe2O3 + C = CO + Fe
+
+C + H2 = CH4
+H2 + C = CH4
+
+C + H2O = CO + H2
+H2O + C = CO + H2
+
+C + H2SO4 = CO2 + H2O + SO2
+H2SO4 + C = CO2 + H2O + SO2
+
+C + HNO3 = CO2 + H2O + NO2
+HNO3 + C = CO2 + H2O + NO2
+
+C + O2 = CO2
+O2 + C = CO2
+
+C + S = CS2
+S + C = CS2
+
+CH4 + O2 = CO2 + H2
+O2 + CH4 = CO2 + H2
+
+CH4 = H2 + C
+
+CO + CuO = CO2 + Cu
+CuO + CO = CO2 + Cu
+
+CO + Fe2O3 = CO2 + Fe
+Fe2O3 + CO = CO2 + Fe
+
+CO2 + Ca(OH)2 = CaCO3 + H2O
+Ca(OH)2 + CO2 = CaCO3 + H2O
+
+CO2 + CaCO3 + H2O = Ca(HCO3)2
+CO2 + H2O + CaCO3 = Ca(HCO3)2
+CaCO3 + CO2 + H2O = Ca(HCO3)2
+CaCO3 + H2O + CO2 = Ca(HCO3)2
+H2O + CO2 + CaCO3 = Ca(HCO3)2
+H2O + CaCO3 + CO2 = Ca(HCO3)2
+
+CO2 + H2O + NH3 = (NH4)CO3
+CO2 + NH3 + H2O = (NH4)CO3
+H2O + CO2 + NH3 = (NH4)CO3
+H2O + NH3 + CO2 = (NH4)CO3
+NH3 + CO2 + H2O = (NH4)CO3
+NH3 + H2O + CO2 = (NH4)CO3
+
+CO2 + H2O = H2CO3
+H2O + CO2 = H2CO3
+
+CO2 + KOH = KHCO3
+KOH + CO2 = KHCO3
+
+CO2 + NH3 = CO(NH2)2 + H2O
+NH3 + CO2 = CO(NH2)2 + H2O
+
+CO2 + NaOH = NaHCO3
+NaOH + CO2 = NaHCO3
+
+Ca + H2 = CaH2
+H2 + Ca = CaH2
+
+Ca + H2SO4 = CaSO4 + H2
+H2SO4 + Ca = CaSO4 + H2
+
+Ca + O2 = CaO
+O2 + Ca = CaO
+
+Ca(HCO3)2 = CaCO3 + CO2 + H2O
+
+Ca(OH)2 + H2CO3 = CaCO3 + H2O
+H2CO3 + Ca(OH)2 = CaCO3 + H2O
+
+Ca(OH)2 + H2SO4 = CaSO4 + H2O
+H2SO4 + Ca(OH)2 = CaSO4 + H2O
+
+Ca(OH)2 + HCl = CaCl2 + H2O
+HCl + Ca(OH)2 = CaCl2 + H2O
+
+Ca(OH)2 + NaCl = CaCl2 + NaOH
+NaCl + Ca(OH)2 = CaCl2 + NaOH
+
+Ca(OH)2 + SO3 = Ca(SO4)2 + H2O
+SO3 + Ca(OH)2 = Ca(SO4)2 + H2O
+
+CaCO3 + H2SO4 = CaSO4 + CO2 + H2O
+H2SO4 + CaCO3 = CaSO4 + CO2 + H2O
+
+CaCO3 + HCl = CaCl2 + CO2 + H2O
+HCl + CaCO3 = CaCl2 + CO2 + H2O
+
+CaCO3 + HNO3 = Ca(NO3)2 + CO2 + H2O
+HNO3 + CaCO3 = Ca(NO3)2 + CO2 + H2O
+
+CaCO3 = CO2 + CaO
+
+CaO + H2O = Ca(OH)2
+H2O + CaO = Ca(OH)2
+
+CaOCl2 + HCl = CaCl2 + Cl2 + H2O
+HCl + CaOCl2 = CaCl2 + Cl2 + H2O
+
+Cl2 + Cu = CuCl2
+Cu + Cl2 = CuCl2
+
+Cl2 + Fe = FeCl3
+Fe + Cl2 = FeCl3
+
+Cl2 + H2 = HCl
+H2 + Cl2 = HCl
+
+Cl2 + H2O = HCl + O2
+H2O + Cl2 = HCl + O2
+
+Cl2 + H2S = HCl + S
+H2S + Cl2 = HCl + S
+
+Cl2 + NaBr = NaCl + Br
+NaBr + Cl2 = NaCl + Br
+
+Cl2 + NaOH = NaClO + NaCl + H2O
+NaOH + Cl2 = NaClO + NaCl + H2O
+
+Cl2O7 + H2O = HClO4
+H2O + Cl2O7 = HClO4
+
+Cu + H2SO4 = CuSO4 + H2O + SO2
+H2SO4 + Cu = CuSO4 + H2O + SO2
+
+Cu + HNO3 = Cu(NO3)2 + H2O + NO2
+HNO3 + Cu = Cu(NO3)2 + H2O + NO2
+
+Cu + HgCl2 = CuCl2 + Hg
+HgCl2 + Cu = CuCl2 + Hg
+
+Cu + O2 = CuO
+O2 + Cu = CuO
+
+Cu(OH)2 = CuO + H2O
+
+CuCO3 + H2SO4 = CuSO4 + CO2 + H2O
+H2SO4 + CuCO3 = CuSO4 + CO2 + H2O
+
+CuCO3 = CO2 + CuO
+
+CuO + Fe = Fe3O4 + Cu
+Fe + CuO = Fe3O4 + Cu
+
+CuO + H2 = H2O + Cu
+H2 + CuO = H2O + Cu
+
+CuO + H2SO3 = CuSO4 + H2O
+H2SO3 + CuO = CuSO4 + H2O
+
+CuO + H2SO4 = CuSO4 + H2O
+H2SO4 + CuO = CuSO4 + H2O
+
+CuO + HCl = CuCl2 + H2O
+HCl + CuO = CuCl2 + H2O
+
+CuO + HNO3 = Cu(NO3)2 + H2O
+HNO3 + CuO = Cu(NO3)2 + H2O
+
+CuSO4 + Fe = FeSO4 + Cu
+Fe + CuSO4 = FeSO4 + Cu
+
+CuSO4 + H2S = H2SO4 + CuS
+H2S + CuSO4 = H2SO4 + CuS
+
+CuSO4 + NaOH = Cu(OH)2 + Na2SO4
+NaOH + CuSO4 = Cu(OH)2 + Na2SO4
+
+CuSO4 + Zn = ZnSO4 + Cu
+Zn + CuSO4 = ZnSO4 + Cu
+
+CuSO4 = CuO + SO2 + O2
+
+Fe + H2O = Fe3O4 + H2
+H2O + Fe = Fe3O4 + H2
+
+Fe + H2SO4 = Fe2(SO4)3 + H2
+H2SO4 + Fe = Fe2(SO4)3 + H2
+
+Fe + HCl = FeCl2 + H2
+HCl + Fe = FeCl2 + H2
+
+Fe + HNO3 = Fe(NO3)3 + H2
+HNO3 + Fe = Fe(NO3)3 + H2
+
+Fe + O2 = Fe3O4
+O2 + Fe = Fe3O4
+
+Fe + S = FeS
+S + Fe = FeS
+
+Fe(OH)2 + H2O + O2 = Fe(OH)3
+Fe(OH)2 + O2 + H2O = Fe(OH)3
+H2O + Fe(OH)2 + O2 = Fe(OH)3
+H2O + O2 + Fe(OH)2 = Fe(OH)3
+O2 + Fe(OH)2 + H2O = Fe(OH)3
+O2 + H2O + Fe(OH)2 = Fe(OH)3
+
+Fe(OH)2 + H2SO4 = FeSO4 + H2O
+H2SO4 + Fe(OH)2 = FeSO4 + H2O
+
+Fe(OH)2 + HCl = FeCl2 + H2O
+HCl + Fe(OH)2 = FeCl2 + H2O
+
+Fe(OH)2 + HNO3 = Fe(NO3)2 + H2O
+HNO3 + Fe(OH)2 = Fe(NO3)2 + H2O
+
+Fe(OH)2 = Fe2O3 + H2O
+
+Fe2(SO4)3 + NaOH = Fe(OH)3 + Na2SO4
+NaOH + Fe2(SO4)3 = Fe(OH)3 + Na2SO4
+
+Fe2O3 + H2 = H2O + Fe
+H2 + Fe2O3 = H2O + Fe
+
+Fe2O3 + H2SO4 = Fe2(SO4)3 + H2O
+H2SO4 + Fe2O3 = Fe2(SO4)3 + H2O
+
+Fe2O3 + HCl = FeCl3 + H2O
+HCl + Fe2O3 = FeCl3 + H2O
+
+Fe2O3 + HNO3 = Fe(NO3)3 + H2O
+HNO3 + Fe2O3 = Fe(NO3)3 + H2O
+
+FeCl3 + NaOH = Fe(OH)3 + NaCl
+NaOH + FeCl3 = Fe(OH)3 + NaCl
+
+FeS2 + O2 = Fe2O3 + SO2
+O2 + FeS2 = Fe2O3 + SO2
+
+FeS2 = FeS + S2
+
+FeSO4 + NaOH = Fe(OH)2 + Na2SO4
+NaOH + FeSO4 = Fe(OH)2 + Na2SO4
+
+H2 + Li = LiH
+Li + H2 = LiH
+
+H2 + N2 = NH3
+N2 + H2 = NH3
+
+H2 + NiO = H2O + Ni
+NiO + H2 = H2O + Ni
+
+H2 + O2 = H2O
+O2 + H2 = H2O
+
+H2 + S = H2S
+S + H2 = H2S
+
+H2 + SO2 = H2O + S
+SO2 + H2 = H2O + S
+
+H2CO3 + NH3 = NH4HCO3
+NH3 + H2CO3 = NH4HCO3
+
+H2CO3 + Na = Na2CO3 + H2
+Na + H2CO3 = Na2CO3 + H2
+
+H2CO3 + Na2CO3 = NaHCO3
+Na2CO3 + H2CO3 = NaHCO3
+
+H2CO3 + Na2O = Na2CO3 + H2O
+Na2O + H2CO3 = Na2CO3 + H2O
+
+H2CO3 + NaCl = Na2CO3 + HCl
+NaCl + H2CO3 = Na2CO3 + HCl
+
+H2CO3 + NaOH = Na2CO3 + H2O
+NaOH + H2CO3 = Na2CO3 + H2O
+
+H2CO3 = CO2 + H2O
+
+H2O + K2O = KOH
+K2O + H2O = KOH
+
+H2O + Mg = Mg(OH)2 + H2
+Mg + H2O = Mg(OH)2 + H2
+
+H2O + MgO = Mg(OH)2
+MgO + H2O = Mg(OH)2
+
+H2O + N2O5 = HNO3
+N2O5 + H2O = HNO3
+
+H2O + Na = NaOH + H2
+Na + H2O = NaOH + H2
+
+H2O + Na2O = NaOH
+Na2O + H2O = NaOH
+
+H2O + NaOH + Zn = Na2(Zn(OH)4)
+H2O + Zn + NaOH = Na2(Zn(OH)4)
+NaOH + H2O + Zn = Na2(Zn(OH)4)
+NaOH + Zn + H2O = Na2(Zn(OH)4)
+Zn + H2O + NaOH = Na2(Zn(OH)4)
+Zn + NaOH + H2O = Na2(Zn(OH)4)
+
+H2O + P2O5 = H3PO4
+P2O5 + H2O = H3PO4
+
+H2O + SO2 = H2SO3
+SO2 + H2O = H2SO3
+
+H2O + SO3 = H2SO4
+SO3 + H2O = H2SO4
+
+H2O = H2 + O2
+
+H2O2 = H2O + O2
+
+H2S + O2 = H2O + SO2
+O2 + H2S = H2O + SO2
+
+H2SO4 + KOH = K2SO4 + H2O
+KOH + H2SO4 = K2SO4 + H2O
+
+H2SO4 + NH3 = (NH4)2SO4
+NH3 + H2SO4 = (NH4)2SO4
+
+H2SO4 + Na2O = Na2SO4 + H2O
+Na2O + H2SO4 = Na2SO4 + H2O
+
+H2SO4 + NaCl = Na2SO4 + HCl
+NaCl + H2SO4 = Na2SO4 + HCl
+
+H2SO4 + NaOH = Na2SO4 + H2O
+NaOH + H2SO4 = Na2SO4 + H2O
+
+H2SO4 + P4 = H3PO4 + H2O + SO2
+P4 + H2SO4 = H3PO4 + H2O + SO2
+
+H2SO4 + Pb(NO3)2 = PbSO4 + HNO3
+Pb(NO3)2 + H2SO4 = PbSO4 + HNO3
+
+H2SO4 + S = H2O + SO2
+S + H2SO4 = H2O + SO2
+
+H2SO4 + Zn = ZnSO4 + H2O + SO2
+Zn + H2SO4 = ZnSO4 + H2O + SO2
+
+H2SO4 + Zn(OH)2 = ZnSO4 + H2O
+Zn(OH)2 + H2SO4 = ZnSO4 + H2O
+
+HCl + KClO3 = Cl2 + H2O + KCl
+KClO3 + HCl = Cl2 + H2O + KCl
+
+HCl + KMnO4 = MnCl2 + Cl2 + H2O + KCl
+KMnO4 + HCl = MnCl2 + Cl2 + H2O + KCl
+
+HCl + Mg = MgCl2 + H2
+Mg + HCl = MgCl2 + H2
+
+HCl + MnO2 = MnCl2 + Cl2 + H2O
+MnO2 + HCl = MnCl2 + Cl2 + H2O
+
+HCl + NH3 = NH4Cl
+NH3 + HCl = NH4Cl
+
+HCl + Na2CO3 = H2CO3 + NaCl
+Na2CO3 + HCl = H2CO3 + NaCl
+
+HCl + Na2O = NaCl + H2O
+Na2O + HCl = NaCl + H2O
+
+HCl + NaOH = NaCl + H2O
+NaOH + HCl = NaCl + H2O
+
+HCl + O2 = Cl2 + H2O
+O2 + HCl = Cl2 + H2O
+
+HCl + Zn = ZnCl2 + H2
+Zn + HCl = ZnCl2 + H2
+
+HCl + Zn(OH)2 = ZnCl2 + H2O
+Zn(OH)2 + HCl = ZnCl2 + H2O
+
+HNO3 + Mg = Mg(NO3)2 + H2
+Mg + HNO3 = Mg(NO3)2 + H2
+
+HNO3 + Na2O = NaNO3 + H2O
+Na2O + HNO3 = NaNO3 + H2O
+
+HNO3 + NaOH = NaNO3 + H2O
+NaOH + HNO3 = NaNO3 + H2O
+
+HNO3 + S = H2SO4 + H2O + NO2
+S + HNO3 = H2SO4 + H2O + NO2
+
+HNO3 + Zn = Zn(NO3)2 + H2O + NO2
+Zn + HNO3 = Zn(NO3)2 + H2O + NO2
+
+HNO3 + Zn(OH)2 = Zn(NO3)2 + H2O
+Zn(OH)2 + HNO3 = Zn(NO3)2 + H2O
+
+HNO3 + ZnS = ZnSO4 + H2O + NO2
+ZnS + HNO3 = ZnSO4 + H2O + NO2
+
+HgCl2 + KI = HgI2 + KCl
+KI + HgCl2 = HgI2 + KCl
+
+HgO = Hg + O2
+
+KClO3 = KCl + O2
+
+KHCO3 = CO2 + H2O + K2O
+
+KI + Pb(NO3)2 = KNO3 + PbI2
+Pb(NO3)2 + KI = KNO3 + PbI2
+
+KMnO4 = K2MnO4 + MnO2 + O2
+
+Mg + O2 = MgO
+O2 + Mg = MgO
+
+Mg(HCO3)2 = MgCO3 + CO2 + H2O
+
+MgCO3 = CO2 + MgO
+
+NH4Cl = Cl2 + NH3
+
+Na + O2 = Na2O
+O2 + Na = Na2O
+
+Na2CO3 = Na2O + CO2
+
+NaCl + Pb(NO3)2 = NaNO3 + PbCl2
+Pb(NO3)2 + NaCl = NaNO3 + PbCl2
+
+NaCl = Cl2 + Na
+
+NaHCO3 = Na2CO3 + CO2 + H2O
+
+NaNO3 = NaNO2 + O2
+
+NaOH + Pb(OH)2 = Na2(Pb(OH)4)
+Pb(OH)2 + NaOH = Na2(Pb(OH)4)
+
+NaOH + SO3 = Na2SO4 + H2O
+SO3 + NaOH = Na2SO4 + H2O
+
+NaOH + Zn(OH)2 = Na2ZnO2 + H2O
+Zn(OH)2 + NaOH = Na2ZnO2 + H2O
+
+O2 + P4 = P2O5
+P4 + O2 = P2O5
+
+O2 + S = SO2
+S + O2 = SO2
+
+O2 + SO2 = SO3
+SO2 + O2 = SO3
+
+O2 + Zn = ZnO2
+Zn + O2 = ZnO2
+
+Zn(OH)2 = H2O + ZnO
